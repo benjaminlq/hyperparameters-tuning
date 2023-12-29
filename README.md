@@ -3,6 +3,8 @@
 - [Hyperband Paper](https://arxiv.org/abs/1603.06560)
 - [Comparison of hyperparameter search algorithms](https://proceedings.neurips.cc/paper_files/paper/2011/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf)
 - https://neptune.ai/blog/hyperparameter-tuning-in-python-complete-guide
+- https://medium.com/@gerbentempelman/comparing-hyperparameter-optimization-frameworks-in-python-a-conceptual-and-pragmatic-approach-24d9baa1cc69
+- https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
 
 ## I. Methods
 1. GridSearch
